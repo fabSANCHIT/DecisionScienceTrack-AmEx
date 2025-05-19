@@ -1,0 +1,13 @@
+feature,description
+team1_avg_runs_last_5,Team1's average runs in the last 5 matches
+team2_avg_runs_last_5,Team2's average runs in the last 5 matches
+team1_bowler_economy_last_5,Average economy rate of team1 bowlers in the last 5 matches
+team2_bowler_economy_last_5,Average economy rate of team2 bowlers in the last 5 matches
+team1_wickets_last_5,Total wickets taken by team1 bowlers in the last 5 matches
+team2_wickets_last_5,Total wickets taken by team2 bowlers in the last 5 matches
+team1_boundaries_last_5,Total boundaries (fours and sixes) scored by team1 in the last 5 matches
+team2_boundaries_last_5,Total boundaries (fours and sixes) scored by team2 in the last 5 matches
+toss_win_impact,Binary feature indicating if the toss winner is also the match winner
+home_ground_advantage,Binary feature indicating if the match is played at the home ground of either team
+team1_experience,Average number of matches played by the team1 roster
+team2_experience,Average number of matches played by the team2 roster

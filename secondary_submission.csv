@@ -1,0 +1,19 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+3,team1_id,0.10702298358749644,1,Description of team1_id
+5,team2_id,0.1066379170565579,2,Description of team2_id
+1,match id,0.07848437872744803,3,Description of match id
+2,team1,0.07809657951689558,4,Description of team1
+4,team2,0.07521660432428959,5,Description of team2
+6,toss winner,0.0674109919896658,6,Description of toss winner
+11,series_name,0.06484949751298333,7,Description of series_name
+13,ground_id,0.05883754838046421,8,Description of ground_id
+14,team_count_50runs_last15,0.05809017057812723,9,Description of team_count_50runs_last15
+8,venue,0.053550820491229036,10,Description of venue
+9,city,0.04964900935402325,11,Description of city
+18,ground_avg_runs_last15,0.04725878065533104,12,Description of ground_avg_runs_last15
+15,team_winp_last5,0.04252649811769961,13,Description of team_winp_last5
+17,team1_winp_team2_last15,0.03276603942267422,14,Description of team1_winp_team2_last15
+12,season,0.0275525991953558,15,Description of season
+10,lighting,0.020908693536658945,16,Description of lighting
+16,team1only_avg_runs_last15,0.016172971811340094,17,Description of team1only_avg_runs_last15
+7,toss decision,0.014967915741759914,18,Description of toss decision
